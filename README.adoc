@@ -1,5 +1,6 @@
 = Compiler et construire ses applications avec maven
-Auteur : JOUSSEIN Ethan - Groupe 3A
+== Auteur
+JOUSSEIN Ethan - Groupe 3A
 
 == Compilation
 Pour compiler le projet, exécutez la commande suivante :
