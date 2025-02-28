@@ -1,0 +1,60 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'tp_qualite 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/workspace/r2-03-td4-maven-Joussein-Ethan/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp_qualite 1.0 API'
+'/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java/HelloJava.java'
+'/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java/Main.java'
+'/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java/Pile.java'
+/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java/HelloJava.java = 1740759528853
+/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java/Main.java = 1740761509579
+/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java/Pile.java = 1740761539759
+/workspace/r2-03-td4-maven-Joussein-Ethan/src/main/java = 1740761521511
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/javadoc.sh = 1740760864372
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/Main.html = 1740761859391
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/Pile.html = 1740761859415
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/element-list = 1740761859415
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/package-summary.html = 1740761859419
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/package-tree.html = 1740761859427
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/constant-values.html = 1740761859427
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/package-use.html = 1740761859439
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/overview-tree.html = 1740761859443
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/package-search-index.js = 1740761859451
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/package-search-index.zip = 1740761859459
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/type-search-index.js = 1740761859459
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/type-search-index.zip = 1740761859459
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/member-search-index.js = 1740761859459
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/member-search-index.zip = 1740761859459
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/index-all.html = 1740761859459
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/allclasses-index.html = 1740761859463
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/allpackages-index.html = 1740761859467
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/deprecated-list.html = 1740761859471
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/allclasses.html = 1740761859471
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/index.html = 1740761859471
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/help-doc.html = 1740761859475
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/stylesheet.css = 1740761859475
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/script.js = 1740761859475
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/search.js = 1740761859479
+/workspace/r2-03-td4-maven-Joussein-Ethan/target/site/apidocs/jquery-ui.overrides.css = 1740761859483
